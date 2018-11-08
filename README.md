@@ -1,2 +1,2 @@
 # Helloworld
-Jus repo
+print('Hello, world!')
